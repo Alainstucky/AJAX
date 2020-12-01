@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza1",
+    "Haupt_Zutat": "Liebe"
+  },
+  {
+    "id": 3,
+    "name": "Pizza2",
+    "Haupt_Zutat": "liebe"
+  },
+  {
+    "id": 3,
+    "name": "Pizza3",
+    "Haupt_Zutat": "liebe"
+  }
+]
